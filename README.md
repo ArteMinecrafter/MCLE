@@ -1,2 +1,2 @@
 # MCLE
-Minecraft, Classic, Editor, Level.
+Minecraft Classic Level Editor
