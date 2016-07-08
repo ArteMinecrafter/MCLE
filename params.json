@@ -1,6 +1,6 @@
 {
   "name": "Minecraft Classic Level Editor",
   "tagline": "Level Editor",
-  "body": "#MCLE\r\nMinecraft Classic Level Editor\r\n\r\n",
+  "body": "# MCLE\r\nMinecraft Classic Level Editor\r\n\r\n#MCLE Installing\r\n\r\n1. Download JDK (Java Developoment Kit).\r\n2. Paste minecraft-server.jar to MCLE.\r\n3. Complir MCLE.\r\n4. Run MCLE on cmd.\r\n5. Enjoy!\r\n\r\n- **[MCLE by MineLime Team](minelime.ucoz.net)**\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
